@@ -1,4 +1,5 @@
 # decorator code
+# small example 
 
 def smart_div(func):
     def inner(a,b):
